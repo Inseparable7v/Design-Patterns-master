@@ -1,7 +1,7 @@
 # Software Design Patterns
 Implementations and demos of the most popular creational, behavioral and structural software design patterns.
 
-## [Creational Design Patterns](https://github.com/NaskoVasilev/Design-Patterns/tree/master/CreationalDesignPatterns)
+## [Creational Design Patterns](https://github.com/Inseparable7v/Design-Patterns-master/tree/master/CreationalPatterns)
 - Abstract Factory
 - Builder
 - Factory Method
@@ -10,7 +10,7 @@ Implementations and demos of the most popular creational, behavioral and structu
 - Simple Factory
 - Singleton
 
-## [Structural Design Patterns](https://github.com/NaskoVasilev/Design-Patterns/tree/master/StructuralPatterns)
+## [Structural Design Patterns](https://github.com/Inseparable7v/Design-Patterns-master/tree/master/StructuralPatterns)
 - Adapter
 - Bridge
 - Composite
@@ -19,7 +19,7 @@ Implementations and demos of the most popular creational, behavioral and structu
 - Flyweight
 - Proxy
 
-## [Behavioral Design Patterns](https://github.com/NaskoVasilev/Design-Patterns/tree/master/BehavioralPatterns)
+## [Behavioral Design Patterns](https://github.com/Inseparable7v/Design-Patterns-master/tree/master/BehavioralPatterns)
 - Chain Of Responsibility
 - Command
 - Interpreter
